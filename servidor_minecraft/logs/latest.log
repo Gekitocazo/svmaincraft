@@ -65,3 +65,17 @@
 [15:44:30] [User Authenticator #0/INFO]: UUID of player Gekito is b55088f6-471a-355c-aa85-7086aa1f8e7e
 [15:44:32] [Server thread/INFO]: Gekito joined the game
 [15:44:32] [Server thread/INFO]: Gekito[/127.4.64.75:49725] logged in with entity id 52 at ([world]2.5, 71.0, 4.5)
+[15:53:07] [Server thread/INFO]: Gekito fell from a high place
+[15:54:20] [Server thread/INFO]: Gekito lost connection: Disconnected
+[15:54:20] [Server thread/INFO]: Gekito left the game
+[15:57:46] [User Authenticator #1/INFO]: UUID of player Gekito is b55088f6-471a-355c-aa85-7086aa1f8e7e
+[15:57:47] [Server thread/INFO]: Gekito joined the game
+[15:57:47] [Server thread/INFO]: Gekito[/127.4.64.75:59157] logged in with entity id 2375 at ([world]-43.96741516227881, 77.0, 13.25779444586056)
+[15:59:20] [Server thread/INFO]: Gekito lost connection: Disconnected
+[15:59:20] [Server thread/INFO]: Gekito left the game
+[16:01:33] [User Authenticator #2/INFO]: UUID of player Gekito is b55088f6-471a-355c-aa85-7086aa1f8e7e
+[16:01:34] [Server thread/INFO]: Gekito joined the game
+[16:01:34] [Server thread/INFO]: Gekito[/127.4.64.75:54897] logged in with entity id 2565 at ([world]-67.67219102941458, 74.0, -29.215879477005323)
+[16:01:52] [Server thread/INFO]: Gekito was slain by Zombie
+[16:02:24] [Server thread/INFO]: Gekito lost connection: Disconnected
+[16:02:24] [Server thread/INFO]: Gekito left the game
